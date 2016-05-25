@@ -15,7 +15,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="This is truly rubbish!" />
+        android:text="This is truly, no really, rubbish!" />
 
 
 </RelativeLayout>
