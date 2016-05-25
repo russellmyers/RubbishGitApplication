@@ -28,6 +28,7 @@ public class RubbishActivity extends AppCompatActivity {
         });
 
         int i = 23;
+        int j = 24;
     }
 
     @Override
